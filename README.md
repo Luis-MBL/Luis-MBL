@@ -1,4 +1,6 @@
-## Olá, eu sou Luís Miguel!!
+<div style="display:flex">
+  <h1>Olá, eu sou Luís Miguel! <img src="https://cdn.discordapp.com/attachments/788112504328945695/872970838620659712/ezgif.com-gif-maker.gif" height="100"> <h1> 
+</div>
 
 <div>
   <a href="https://github.com/Luis-MBL">
