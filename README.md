@@ -1,13 +1,6 @@
-<div style="display:flex">
-  <h1>Olá, eu sou Luís Miguel! <img src="https://cdn.discordapp.com/attachments/788112504328945695/872970838620659712/ezgif.com-gif-maker.gif" height="100"> <h1> 
-</div>
+<h1>Olá, eu sou Luís Miguel!<h1> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Miguel-BL&layout=compact&theme=dark"/>
 
-<div>
-  <a href="https://github.com/Luis-Miguel-BL">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luis-Miguel-BL&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Miguel-BL&layout=compact&theme=dark"/>
-  </a>
-</div>
 
 
 ![Snake animation](https://github.com/Luis-Miguel-BL/Luis-Miguel-BL/blob/output/github-contribution-grid-snake.svg)
